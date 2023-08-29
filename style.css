@@ -21,9 +21,11 @@ body {
     flex-direction: column;
     width: 200px;
     padding: 10px; 
+    user-select: none;
   }
   
   button {
+    user-select: none;
     background-color: #333;
     border: 5px solid #000080;
     color: white;
@@ -60,6 +62,7 @@ body {
     margin: 0 auto;
     background-color: var(--primary-light);
     padding: 20px; 
+    user-select: none;
   }
   
   /* Estilo para la cuadrícula */
