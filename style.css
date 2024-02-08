@@ -75,7 +75,7 @@ body {
     height: 450px;
     margin: 0 80px;
     margin-bottom: 30px;
-    border: 1px solid var(--primary-dark);
+    border: 1px solid var(rgba(0, 0, 0, 0.822));
     box-shadow: rgba(0, 0, 0, 0.24) 0px 5px 8px;
     transform: translateX(10px);
     transition: transform 0.2s ease-in-out;
